@@ -1,0 +1,254 @@
+{
+ "$doc": "Launch film v2 VO (docs/LAUNCH_FILM_PLAN.md \u00a73). Placeholder TTS; replace with ElevenLabs takes named V01\u2026V15 and run align_vo.py.",
+ "voice": "am_onyx",
+ "lang": "en-us",
+ "defaultSpeed": 1.0,
+ "lines": {
+  "V01": {
+   "phrases": [
+    {
+     "text": "Every habit app lets you quit.",
+     "speed": 0.95,
+     "key": [
+      "quit."
+     ]
+    }
+   ]
+  },
+  "V02": {
+   "phrases": [
+    {
+     "text": "This one",
+     "speed": 0.92,
+     "key": []
+    },
+    {
+     "text": "bills you.",
+     "speed": 0.9,
+     "key": [
+      "bills",
+      "you."
+     ],
+     "gap": 0.15
+    }
+   ]
+  },
+  "V03": {
+   "phrases": [
+    {
+     "text": "Welcome to Kept.",
+     "speed": 0.92,
+     "key": [
+      "Kept."
+     ]
+    }
+   ]
+  },
+  "V04": {
+   "phrases": [
+    {
+     "text": "Pick a habit.",
+     "speed": 1.0,
+     "key": []
+    },
+    {
+     "text": "Put money on it.",
+     "speed": 1.0,
+     "key": [
+      "money"
+     ],
+     "gap": 0.25
+    }
+   ]
+  },
+  "V05": {
+   "phrases": [
+    {
+     "text": "Then sign it.",
+     "speed": 1.0,
+     "key": []
+    },
+    {
+     "text": "Like a contract.",
+     "speed": 0.95,
+     "key": [
+      "contract."
+     ],
+     "gap": 0.2
+    }
+   ]
+  },
+  "V06": {
+   "phrases": [
+    {
+     "text": "And bring witnesses.",
+     "speed": 1.0,
+     "key": [
+      "witnesses."
+     ]
+    }
+   ]
+  },
+  "V07": {
+   "phrases": [
+    {
+     "text": "Two photos a day.",
+     "speed": 1.05,
+     "key": []
+    },
+    {
+     "text": "Random gesture.",
+     "speed": 1.05,
+     "key": [
+      "Random"
+     ],
+     "gap": 0.15
+    },
+    {
+     "text": "I check every one.",
+     "speed": 1.0,
+     "key": [
+      "every"
+     ],
+     "gap": 0.2
+    }
+   ]
+  },
+  "V08": {
+   "phrases": [
+    {
+     "text": "Miss a day\u2026",
+     "speed": 0.9,
+     "key": [
+      "Miss"
+     ]
+    }
+   ]
+  },
+  "V09": {
+   "phrases": [
+    {
+     "text": "and your friends split your stake.",
+     "speed": 1.0,
+     "key": [
+      "split"
+     ]
+    }
+   ]
+  },
+  "V10": {
+   "phrases": [
+    {
+     "text": "Honestly?",
+     "speed": 0.95,
+     "key": []
+    },
+    {
+     "text": "I love this part.",
+     "speed": 0.92,
+     "key": [
+      "love"
+     ],
+     "gap": 0.3
+    }
+   ]
+  },
+  "V11": {
+   "phrases": [
+    {
+     "text": "Bounties.",
+     "speed": 1.0,
+     "key": [
+      "Bounties."
+     ]
+    },
+    {
+     "text": "Free to join.",
+     "speed": 1.05,
+     "key": [],
+     "gap": 0.15
+    },
+    {
+     "text": "Miss once, you're out.",
+     "speed": 1.0,
+     "key": [
+      "out."
+     ],
+     "gap": 0.2
+    }
+   ]
+  },
+  "V12": {
+   "phrases": [
+    {
+     "text": "Last ones standing split the pool.",
+     "speed": 1.0,
+     "key": [
+      "pool."
+     ]
+    }
+   ]
+  },
+  "V13": {
+   "phrases": [
+    {
+     "text": "Your kept rate is public.",
+     "speed": 1.0,
+     "key": [
+      "public."
+     ]
+    },
+    {
+     "text": "Make it worth reading.",
+     "speed": 1.0,
+     "key": [],
+     "gap": 0.25
+    }
+   ]
+  },
+  "V14": {
+   "phrases": [
+    {
+     "text": "Keep your word.",
+     "speed": 0.92,
+     "key": [
+      "word."
+     ]
+    },
+    {
+     "text": "Or pay your friends.",
+     "speed": 0.92,
+     "key": [
+      "pay"
+     ],
+     "gap": 0.3
+    }
+   ]
+  },
+  "V15": {
+   "phrases": [
+    {
+     "text": "Kept.",
+     "speed": 0.9,
+     "key": [
+      "Kept."
+     ]
+    },
+    {
+     "text": "On Seeker.",
+     "speed": 0.95,
+     "key": [],
+     "gap": 0.2
+    },
+    {
+     "text": "October sixteenth.",
+     "speed": 0.95,
+     "key": [
+      "sixteenth."
+     ],
+     "gap": 0.15
+    }
+   ]
+  }
+ }
+}

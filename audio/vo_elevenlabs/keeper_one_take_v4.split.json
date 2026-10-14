@@ -1,0 +1,1729 @@
+{
+ "$doc": "split_take.py: phrases of a one-take read, times in seconds from the start of `file`.",
+ "file": "audio/vo_elevenlabs/keeper_one_take_v4.mp3",
+ "duration": 86.518,
+ "matched": "182/183",
+ "phrases": [
+  {
+   "line": "S01",
+   "phrase": 0,
+   "text": "Every habit app lets you quit.",
+   "audio": 0.16,
+   "start": 0.16,
+   "end": 2.04,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Every",
+     "start": 0.16,
+     "end": 0.46
+    },
+    {
+     "w": "habit",
+     "start": 0.46,
+     "end": 0.74
+    },
+    {
+     "w": "app",
+     "start": 0.74,
+     "end": 1.02
+    },
+    {
+     "w": "lets",
+     "start": 1.02,
+     "end": 1.22
+    },
+    {
+     "w": "you",
+     "start": 1.22,
+     "end": 1.46
+    },
+    {
+     "w": "quit.",
+     "start": 1.46,
+     "end": 2.04
+    }
+   ],
+   "heard": "Every habit app lets you quit"
+  },
+  {
+   "line": "S02",
+   "phrase": 0,
+   "text": "This one",
+   "audio": 2.38,
+   "start": 2.38,
+   "end": 3.06,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "This",
+     "start": 2.38,
+     "end": 2.58
+    },
+    {
+     "w": "one",
+     "start": 2.58,
+     "end": 3.06
+    }
+   ],
+   "heard": "This one?"
+  },
+  {
+   "line": "S02",
+   "phrase": 1,
+   "text": "bills you.",
+   "audio": 3.54,
+   "start": 3.54,
+   "end": 4.15,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "bills",
+     "start": 3.54,
+     "end": 3.845
+    },
+    {
+     "w": "you.",
+     "start": 3.845,
+     "end": 4.15
+    }
+   ],
+   "heard": "Bill's year."
+  },
+  {
+   "line": "S03",
+   "phrase": 0,
+   "text": "Welcome to KEPT.",
+   "audio": 4.71,
+   "start": 4.71,
+   "end": 5.89,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Welcome",
+     "start": 4.71,
+     "end": 5.09
+    },
+    {
+     "w": "to",
+     "start": 5.09,
+     "end": 5.37
+    },
+    {
+     "w": "KEPT.",
+     "start": 5.37,
+     "end": 5.89
+    }
+   ],
+   "heard": "Welcome to Kept!"
+  },
+  {
+   "line": "S03",
+   "phrase": 1,
+   "text": "I'm the Keeper.",
+   "audio": 6.27,
+   "start": 6.27,
+   "end": 7.08,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 6.27,
+     "end": 6.51
+    },
+    {
+     "w": "the",
+     "start": 6.51,
+     "end": 6.63
+    },
+    {
+     "w": "Keeper.",
+     "start": 6.63,
+     "end": 7.08
+    }
+   ],
+   "heard": "I'm The Keeper."
+  },
+  {
+   "line": "S04",
+   "phrase": 0,
+   "text": "No passwords.",
+   "audio": 7.57,
+   "start": 7.57,
+   "end": 8.35,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "No",
+     "start": 7.57,
+     "end": 7.73
+    },
+    {
+     "w": "passwords.",
+     "start": 7.73,
+     "end": 8.35
+    }
+   ],
+   "heard": "No passwords."
+  },
+  {
+   "line": "S04",
+   "phrase": 1,
+   "text": "Seeker?",
+   "audio": 8.87,
+   "start": 8.87,
+   "end": 9.27,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Seeker?",
+     "start": 8.87,
+     "end": 9.27
+    }
+   ],
+   "heard": "Sika?"
+  },
+  {
+   "line": "S04",
+   "phrase": 2,
+   "text": "You're on the list.",
+   "audio": 9.82,
+   "start": 9.82,
+   "end": 10.54,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "You're",
+     "start": 9.82,
+     "end": 9.98
+    },
+    {
+     "w": "on",
+     "start": 9.98,
+     "end": 10.06
+    },
+    {
+     "w": "the",
+     "start": 10.06,
+     "end": 10.16
+    },
+    {
+     "w": "list.",
+     "start": 10.16,
+     "end": 10.54
+    }
+   ],
+   "heard": "You're on the list."
+  },
+  {
+   "line": "S05",
+   "phrase": 0,
+   "text": "Pick a look.",
+   "audio": 10.86,
+   "start": 10.86,
+   "end": 11.38,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Pick",
+     "start": 10.86,
+     "end": 10.96
+    },
+    {
+     "w": "a",
+     "start": 10.96,
+     "end": 11.08
+    },
+    {
+     "w": "look.",
+     "start": 11.08,
+     "end": 11.38
+    }
+   ],
+   "heard": "Take a look."
+  },
+  {
+   "line": "S05",
+   "phrase": 1,
+   "text": "Hey, that's my look.",
+   "audio": 11.96,
+   "start": 11.96,
+   "end": 13.3,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Hey,",
+     "start": 11.96,
+     "end": 12.44
+    },
+    {
+     "w": "that's",
+     "start": 12.44,
+     "end": 12.68
+    },
+    {
+     "w": "my",
+     "start": 12.68,
+     "end": 12.92
+    },
+    {
+     "w": "look.",
+     "start": 12.92,
+     "end": 13.3
+    }
+   ],
+   "heard": "Hey, that's my look!"
+  },
+  {
+   "line": "S06",
+   "phrase": 0,
+   "text": "Pick a habit.",
+   "audio": 13.7,
+   "start": 13.7,
+   "end": 14.34,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Pick",
+     "start": 13.7,
+     "end": 13.8
+    },
+    {
+     "w": "a",
+     "start": 13.8,
+     "end": 13.94
+    },
+    {
+     "w": "habit.",
+     "start": 13.94,
+     "end": 14.34
+    }
+   ],
+   "heard": "Pick a habit."
+  },
+  {
+   "line": "S06",
+   "phrase": 1,
+   "text": "Every day?",
+   "audio": 14.91,
+   "start": 14.91,
+   "end": 15.58,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Every",
+     "start": 14.91,
+     "end": 15.19
+    },
+    {
+     "w": "day?",
+     "start": 15.19,
+     "end": 15.58
+    }
+   ],
+   "heard": "Every day?"
+  },
+  {
+   "line": "S06",
+   "phrase": 2,
+   "text": "I give it three days.",
+   "audio": 16.14,
+   "start": 16.14,
+   "end": 17.34,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "I",
+     "start": 16.14,
+     "end": 16.28
+    },
+    {
+     "w": "give",
+     "start": 16.28,
+     "end": 16.4
+    },
+    {
+     "w": "it",
+     "start": 16.4,
+     "end": 16.54
+    },
+    {
+     "w": "three",
+     "start": 16.54,
+     "end": 16.82
+    },
+    {
+     "w": "days.",
+     "start": 16.82,
+     "end": 17.34
+    }
+   ],
+   "heard": "I give it three days."
+  },
+  {
+   "line": "S07",
+   "phrase": 0,
+   "text": "Put money on it.",
+   "audio": 17.71,
+   "start": 17.71,
+   "end": 18.41,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Put",
+     "start": 17.71,
+     "end": 17.85
+    },
+    {
+     "w": "money",
+     "start": 17.85,
+     "end": 18.05
+    },
+    {
+     "w": "on",
+     "start": 18.05,
+     "end": 18.27
+    },
+    {
+     "w": "it.",
+     "start": 18.27,
+     "end": 18.41
+    }
+   ],
+   "heard": "Put money on it."
+  },
+  {
+   "line": "S08",
+   "phrase": 0,
+   "text": "Then sign it.",
+   "audio": 18.82,
+   "start": 18.82,
+   "end": 19.57,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Then",
+     "start": 18.82,
+     "end": 18.96
+    },
+    {
+     "w": "sign",
+     "start": 18.96,
+     "end": 19.28
+    },
+    {
+     "w": "it.",
+     "start": 19.28,
+     "end": 19.57
+    }
+   ],
+   "heard": "then sign it"
+  },
+  {
+   "line": "S08",
+   "phrase": 1,
+   "text": "Like a contract.",
+   "audio": 20.06,
+   "start": 20.06,
+   "end": 21.13,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Like",
+     "start": 20.06,
+     "end": 20.2
+    },
+    {
+     "w": "a",
+     "start": 20.2,
+     "end": 20.36
+    },
+    {
+     "w": "contract.",
+     "start": 20.36,
+     "end": 21.13
+    }
+   ],
+   "heard": "Like a contract."
+  },
+  {
+   "line": "S09",
+   "phrase": 0,
+   "text": "No take-backs.",
+   "audio": 21.55,
+   "start": 21.55,
+   "end": 22.5,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "No",
+     "start": 21.55,
+     "end": 21.788
+    },
+    {
+     "w": "take-backs.",
+     "start": 21.788,
+     "end": 22.5
+    }
+   ],
+   "heard": "No take -backs!"
+  },
+  {
+   "line": "S10",
+   "phrase": 0,
+   "text": "Now.",
+   "audio": 22.91,
+   "start": 22.91,
+   "end": 23.48,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Now.",
+     "start": 22.91,
+     "end": 23.48
+    }
+   ],
+   "heard": "Now."
+  },
+  {
+   "line": "S10",
+   "phrase": 1,
+   "text": "Bring your friends.",
+   "audio": 23.98,
+   "start": 23.98,
+   "end": 24.72,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Bring",
+     "start": 23.98,
+     "end": 24.1
+    },
+    {
+     "w": "your",
+     "start": 24.1,
+     "end": 24.24
+    },
+    {
+     "w": "friends.",
+     "start": 24.24,
+     "end": 24.72
+    }
+   ],
+   "heard": "Bring your friends!"
+  },
+  {
+   "line": "S11",
+   "phrase": 0,
+   "text": "Same stake.",
+   "audio": 24.96,
+   "start": 24.96,
+   "end": 25.64,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Same",
+     "start": 24.96,
+     "end": 25.3
+    },
+    {
+     "w": "stake.",
+     "start": 25.3,
+     "end": 25.64
+    }
+   ],
+   "heard": "Same Steak."
+  },
+  {
+   "line": "S11",
+   "phrase": 1,
+   "text": "Same rules.",
+   "audio": 25.87,
+   "start": 25.87,
+   "end": 26.73,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Same",
+     "start": 25.87,
+     "end": 26.19
+    },
+    {
+     "w": "rules.",
+     "start": 26.19,
+     "end": 26.73
+    }
+   ],
+   "heard": "same rules"
+  },
+  {
+   "line": "S12",
+   "phrase": 0,
+   "text": "Arjun.",
+   "audio": 27.16,
+   "start": 27.47,
+   "end": 28.08,
+   "lead": 0.31,
+   "runon": false,
+   "words": [
+    {
+     "w": "Arjun.",
+     "start": 27.47,
+     "end": 28.08
+    }
+   ],
+   "heard": "Ah, Jun..."
+  },
+  {
+   "line": "S12",
+   "phrase": 1,
+   "text": "Finally.",
+   "audio": 28.39,
+   "start": 28.39,
+   "end": 29.18,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Finally.",
+     "start": 28.39,
+     "end": 29.18
+    }
+   ],
+   "heard": "Finally!"
+  },
+  {
+   "line": "S13",
+   "phrase": 0,
+   "text": "Dev? Already in.",
+   "audio": 29.63,
+   "start": 29.63,
+   "end": 31.05,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Dev?",
+     "start": 29.63,
+     "end": 30.27
+    },
+    {
+     "w": "Already",
+     "start": 30.27,
+     "end": 30.61
+    },
+    {
+     "w": "in.",
+     "start": 30.61,
+     "end": 31.05
+    }
+   ],
+   "heard": "Dev? Already in!"
+  },
+  {
+   "line": "S14",
+   "phrase": 0,
+   "text": "4,000 on the table.",
+   "audio": 31.42,
+   "start": 31.42,
+   "end": 33.21,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "4,000",
+     "start": 31.42,
+     "end": 32.38
+    },
+    {
+     "w": "on",
+     "start": 32.38,
+     "end": 32.56
+    },
+    {
+     "w": "the",
+     "start": 32.56,
+     "end": 32.68
+    },
+    {
+     "w": "table.",
+     "start": 32.68,
+     "end": 33.21
+    }
+   ],
+   "heard": "4 ,000 on the table"
+  },
+  {
+   "line": "S15",
+   "phrase": 0,
+   "text": "Two photos a day.",
+   "audio": 33.53,
+   "start": 33.53,
+   "end": 34.79,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Two",
+     "start": 33.53,
+     "end": 33.75
+    },
+    {
+     "w": "photos",
+     "start": 33.75,
+     "end": 34.17
+    },
+    {
+     "w": "a",
+     "start": 34.17,
+     "end": 34.39
+    },
+    {
+     "w": "day.",
+     "start": 34.39,
+     "end": 34.79
+    }
+   ],
+   "heard": "Two photos a day."
+  },
+  {
+   "line": "S15",
+   "phrase": 1,
+   "text": "Random gesture.",
+   "audio": 35.26,
+   "start": 35.26,
+   "end": 36.15,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Random",
+     "start": 35.26,
+     "end": 35.54
+    },
+    {
+     "w": "gesture.",
+     "start": 35.54,
+     "end": 36.15
+    }
+   ],
+   "heard": "Random Gesture"
+  },
+  {
+   "line": "S15",
+   "phrase": 2,
+   "text": "I check every one.",
+   "audio": 36.64,
+   "start": 36.64,
+   "end": 38.0,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "I",
+     "start": 36.64,
+     "end": 36.76
+    },
+    {
+     "w": "check",
+     "start": 36.76,
+     "end": 37.093
+    },
+    {
+     "w": "every",
+     "start": 37.093,
+     "end": 37.773
+    },
+    {
+     "w": "one.",
+     "start": 37.773,
+     "end": 38.0
+    }
+   ],
+   "heard": "I check everyone."
+  },
+  {
+   "line": "S16",
+   "phrase": 0,
+   "text": "Nice try.",
+   "audio": 38.55,
+   "start": 38.55,
+   "end": 39.17,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Nice",
+     "start": 38.55,
+     "end": 38.77
+    },
+    {
+     "w": "try.",
+     "start": 38.77,
+     "end": 39.17
+    }
+   ],
+   "heard": "Nice try."
+  },
+  {
+   "line": "S17",
+   "phrase": 0,
+   "text": "Day one.",
+   "audio": 39.72,
+   "start": 39.72,
+   "end": 40.28,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Day",
+     "start": 39.72,
+     "end": 39.86
+    },
+    {
+     "w": "one.",
+     "start": 39.86,
+     "end": 40.28
+    }
+   ],
+   "heard": "Day 1"
+  },
+  {
+   "line": "S17",
+   "phrase": 1,
+   "text": "Not bad.",
+   "audio": 40.77,
+   "start": 40.77,
+   "end": 41.35,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Not",
+     "start": 40.77,
+     "end": 40.93
+    },
+    {
+     "w": "bad.",
+     "start": 40.93,
+     "end": 41.35
+    }
+   ],
+   "heard": "Not bad."
+  },
+  {
+   "line": "S18",
+   "phrase": 0,
+   "text": "Day two.",
+   "audio": 41.91,
+   "start": 41.91,
+   "end": 42.52,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Day",
+     "start": 41.91,
+     "end": 42.05
+    },
+    {
+     "w": "two.",
+     "start": 42.05,
+     "end": 42.52
+    }
+   ],
+   "heard": "Day 2"
+  },
+  {
+   "line": "S18",
+   "phrase": 1,
+   "text": "Eight minutes left.",
+   "audio": 43.08,
+   "start": 43.08,
+   "end": 44.05,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Eight",
+     "start": 43.08,
+     "end": 43.24
+    },
+    {
+     "w": "minutes",
+     "start": 43.24,
+     "end": 43.46
+    },
+    {
+     "w": "left.",
+     "start": 43.46,
+     "end": 44.05
+    }
+   ],
+   "heard": "8 minutes left."
+  },
+  {
+   "line": "S19",
+   "phrase": 0,
+   "text": "Arjun's still on the couch.",
+   "audio": 44.54,
+   "start": 44.54,
+   "end": 45.91,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Arjun's",
+     "start": 44.54,
+     "end": 45.02
+    },
+    {
+     "w": "still",
+     "start": 45.02,
+     "end": 45.14
+    },
+    {
+     "w": "on",
+     "start": 45.14,
+     "end": 45.3
+    },
+    {
+     "w": "the",
+     "start": 45.3,
+     "end": 45.4
+    },
+    {
+     "w": "couch.",
+     "start": 45.4,
+     "end": 45.91
+    }
+   ],
+   "heard": "Arjun's still on the couch."
+  },
+  {
+   "line": "S20",
+   "phrase": 0,
+   "text": "3 to 1 he misses.",
+   "audio": 46.4,
+   "start": 46.4,
+   "end": 47.56,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "3",
+     "start": 46.4,
+     "end": 46.6
+    },
+    {
+     "w": "to",
+     "start": 46.6,
+     "end": 46.72
+    },
+    {
+     "w": "1",
+     "start": 46.72,
+     "end": 46.9
+    },
+    {
+     "w": "he",
+     "start": 46.9,
+     "end": 47.06
+    },
+    {
+     "w": "misses.",
+     "start": 47.06,
+     "end": 47.56
+    }
+   ],
+   "heard": "3 to 1 he misses."
+  },
+  {
+   "line": "S21",
+   "phrase": 0,
+   "text": "Miss a day…",
+   "audio": 48.05,
+   "start": 48.05,
+   "end": 48.79,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Miss",
+     "start": 48.05,
+     "end": 48.23
+    },
+    {
+     "w": "a",
+     "start": 48.23,
+     "end": 48.39
+    },
+    {
+     "w": "day…",
+     "start": 48.39,
+     "end": 48.79
+    }
+   ],
+   "heard": "Miss a day?"
+  },
+  {
+   "line": "S21",
+   "phrase": 1,
+   "text": "…and your friends split your stake.",
+   "audio": 49.04,
+   "start": 49.04,
+   "end": 50.68,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "…and",
+     "start": 49.04,
+     "end": 49.14
+    },
+    {
+     "w": "your",
+     "start": 49.14,
+     "end": 49.26
+    },
+    {
+     "w": "friends",
+     "start": 49.26,
+     "end": 49.58
+    },
+    {
+     "w": "split",
+     "start": 49.58,
+     "end": 49.96
+    },
+    {
+     "w": "your",
+     "start": 49.96,
+     "end": 50.407
+    },
+    {
+     "w": "stake.",
+     "start": 50.407,
+     "end": 50.68
+    }
+   ],
+   "heard": "and your friends split your steak."
+  },
+  {
+   "line": "S22",
+   "phrase": 0,
+   "text": "Honestly?",
+   "audio": 51.18,
+   "start": 51.18,
+   "end": 51.65,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Honestly?",
+     "start": 51.18,
+     "end": 51.65
+    }
+   ],
+   "heard": "Honestly?"
+  },
+  {
+   "line": "S22",
+   "phrase": 1,
+   "text": "I love this part.",
+   "audio": 52.12,
+   "start": 52.89,
+   "end": 54.29,
+   "lead": 0.77,
+   "runon": false,
+   "words": [
+    {
+     "w": "I",
+     "start": 52.89,
+     "end": 53.2
+    },
+    {
+     "w": "love",
+     "start": 53.2,
+     "end": 53.54
+    },
+    {
+     "w": "this",
+     "start": 53.54,
+     "end": 53.84
+    },
+    {
+     "w": "part.",
+     "start": 53.84,
+     "end": 54.29
+    }
+   ],
+   "heard": "Haha, I love this part."
+  },
+  {
+   "line": "S23",
+   "phrase": 0,
+   "text": "Blurry photo?",
+   "audio": 54.79,
+   "start": 54.79,
+   "end": 55.56,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Blurry",
+     "start": 54.79,
+     "end": 55.05
+    },
+    {
+     "w": "photo?",
+     "start": 55.05,
+     "end": 55.56
+    }
+   ],
+   "heard": "Blurry photo"
+  },
+  {
+   "line": "S23",
+   "phrase": 1,
+   "text": "Your friends decide.",
+   "audio": 55.96,
+   "start": 55.96,
+   "end": 56.84,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Your",
+     "start": 55.96,
+     "end": 56.08
+    },
+    {
+     "w": "friends",
+     "start": 56.08,
+     "end": 56.28
+    },
+    {
+     "w": "decide.",
+     "start": 56.28,
+     "end": 56.84
+    }
+   ],
+   "heard": "Your friends decide."
+  },
+  {
+   "line": "S24",
+   "phrase": 0,
+   "text": "Approved.",
+   "audio": 57.35,
+   "start": 57.35,
+   "end": 57.98,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Approved.",
+     "start": 57.35,
+     "end": 57.98
+    }
+   ],
+   "heard": "Approved"
+  },
+  {
+   "line": "S24",
+   "phrase": 1,
+   "text": "Shame.",
+   "audio": 58.35,
+   "start": 58.35,
+   "end": 59.03,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Shame.",
+     "start": 58.35,
+     "end": 59.03
+    }
+   ],
+   "heard": "Shame."
+  },
+  {
+   "line": "S25",
+   "phrase": 0,
+   "text": "7 for 7.",
+   "audio": 59.42,
+   "start": 59.42,
+   "end": 60.69,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "7",
+     "start": 59.42,
+     "end": 59.88
+    },
+    {
+     "w": "for",
+     "start": 59.88,
+     "end": 60.08
+    },
+    {
+     "w": "7.",
+     "start": 60.08,
+     "end": 60.69
+    }
+   ],
+   "heard": "Seven for seven!"
+  },
+  {
+   "line": "S25",
+   "phrase": 1,
+   "text": "Collect.",
+   "audio": 61.14,
+   "start": 61.14,
+   "end": 61.63,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Collect.",
+     "start": 61.14,
+     "end": 61.63
+    }
+   ],
+   "heard": "Collect"
+  },
+  {
+   "line": "S26",
+   "phrase": 0,
+   "text": "Arjun?",
+   "audio": 62.02,
+   "start": 62.02,
+   "end": 62.41,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Arjun?",
+     "start": 62.02,
+     "end": 62.41
+    }
+   ],
+   "heard": "Arjun?"
+  },
+  {
+   "line": "S26",
+   "phrase": 1,
+   "text": "He'll be back.",
+   "audio": 62.88,
+   "start": 62.88,
+   "end": 63.45,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "He'll",
+     "start": 62.88,
+     "end": 63.02
+    },
+    {
+     "w": "be",
+     "start": 63.02,
+     "end": 63.1
+    },
+    {
+     "w": "back.",
+     "start": 63.1,
+     "end": 63.45
+    }
+   ],
+   "heard": "He'll be back."
+  },
+  {
+   "line": "S27",
+   "phrase": 0,
+   "text": "Want a bigger table?",
+   "audio": 63.92,
+   "start": 63.92,
+   "end": 64.76,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Want",
+     "start": 63.92,
+     "end": 64.04
+    },
+    {
+     "w": "a",
+     "start": 64.04,
+     "end": 64.14
+    },
+    {
+     "w": "bigger",
+     "start": 64.14,
+     "end": 64.3
+    },
+    {
+     "w": "table?",
+     "start": 64.3,
+     "end": 64.76
+    }
+   ],
+   "heard": "Want a bigger table?"
+  },
+  {
+   "line": "S27",
+   "phrase": 1,
+   "text": "Bounties.",
+   "audio": 65.25,
+   "start": 65.25,
+   "end": 66.0,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Bounties.",
+     "start": 65.25,
+     "end": 66.0
+    }
+   ],
+   "heard": "Bounties"
+  },
+  {
+   "line": "S27",
+   "phrase": 2,
+   "text": "Free to join.",
+   "audio": 66.34,
+   "start": 66.34,
+   "end": 67.04,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Free",
+     "start": 66.34,
+     "end": 66.5
+    },
+    {
+     "w": "to",
+     "start": 66.5,
+     "end": 66.64
+    },
+    {
+     "w": "join.",
+     "start": 66.64,
+     "end": 67.04
+    }
+   ],
+   "heard": "Free to join!"
+  },
+  {
+   "line": "S27",
+   "phrase": 3,
+   "text": "Miss once, you're out.",
+   "audio": 67.46,
+   "start": 67.46,
+   "end": 68.82,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Miss",
+     "start": 67.46,
+     "end": 67.64
+    },
+    {
+     "w": "once,",
+     "start": 67.64,
+     "end": 68.24
+    },
+    {
+     "w": "you're",
+     "start": 68.24,
+     "end": 68.48
+    },
+    {
+     "w": "out.",
+     "start": 68.48,
+     "end": 68.82
+    }
+   ],
+   "heard": "Miss once, you're out."
+  },
+  {
+   "line": "S28",
+   "phrase": 0,
+   "text": "Last ones standing split the pool.",
+   "audio": 69.27,
+   "start": 69.27,
+   "end": 71.09,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Last",
+     "start": 69.27,
+     "end": 69.498
+    },
+    {
+     "w": "ones",
+     "start": 69.498,
+     "end": 69.71
+    },
+    {
+     "w": "standing",
+     "start": 69.71,
+     "end": 70.13
+    },
+    {
+     "w": "split",
+     "start": 70.13,
+     "end": 70.53
+    },
+    {
+     "w": "the",
+     "start": 70.53,
+     "end": 70.69
+    },
+    {
+     "w": "pool.",
+     "start": 70.69,
+     "end": 71.09
+    }
+   ],
+   "heard": "Last one standing split the pool."
+  },
+  {
+   "line": "S29",
+   "phrase": 0,
+   "text": "Your kept rate is public.",
+   "audio": 71.53,
+   "start": 71.53,
+   "end": 72.86,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Your",
+     "start": 71.53,
+     "end": 71.65
+    },
+    {
+     "w": "kept",
+     "start": 71.65,
+     "end": 71.89
+    },
+    {
+     "w": "rate",
+     "start": 71.89,
+     "end": 72.15
+    },
+    {
+     "w": "is",
+     "start": 72.15,
+     "end": 72.33
+    },
+    {
+     "w": "public.",
+     "start": 72.33,
+     "end": 72.86
+    }
+   ],
+   "heard": "Your kept rate is public."
+  },
+  {
+   "line": "S29",
+   "phrase": 1,
+   "text": "Make it worth reading.",
+   "audio": 73.34,
+   "start": 73.34,
+   "end": 74.3,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Make",
+     "start": 73.34,
+     "end": 73.5
+    },
+    {
+     "w": "it",
+     "start": 73.5,
+     "end": 73.62
+    },
+    {
+     "w": "worth",
+     "start": 73.62,
+     "end": 73.78
+    },
+    {
+     "w": "reading.",
+     "start": 73.78,
+     "end": 74.3
+    }
+   ],
+   "heard": "Make it worth reading."
+  },
+  {
+   "line": "S30",
+   "phrase": 0,
+   "text": "I gave you three days.",
+   "audio": 74.86,
+   "start": 74.86,
+   "end": 76.18,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "I",
+     "start": 74.86,
+     "end": 74.94
+    },
+    {
+     "w": "gave",
+     "start": 74.94,
+     "end": 75.1
+    },
+    {
+     "w": "you",
+     "start": 75.1,
+     "end": 75.26
+    },
+    {
+     "w": "three",
+     "start": 75.26,
+     "end": 75.58
+    },
+    {
+     "w": "days.",
+     "start": 75.58,
+     "end": 76.18
+    }
+   ],
+   "heard": "I gave you three days."
+  },
+  {
+   "line": "S30",
+   "phrase": 1,
+   "text": "Don't let it go to your head.",
+   "audio": 76.59,
+   "start": 76.59,
+   "end": 77.77,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Don't",
+     "start": 76.59,
+     "end": 76.85
+    },
+    {
+     "w": "let",
+     "start": 76.85,
+     "end": 76.93
+    },
+    {
+     "w": "it",
+     "start": 76.93,
+     "end": 77.05
+    },
+    {
+     "w": "go",
+     "start": 77.05,
+     "end": 77.19
+    },
+    {
+     "w": "to",
+     "start": 77.19,
+     "end": 77.31
+    },
+    {
+     "w": "your",
+     "start": 77.31,
+     "end": 77.45
+    },
+    {
+     "w": "head.",
+     "start": 77.45,
+     "end": 77.77
+    }
+   ],
+   "heard": "Don't let it go to your head."
+  },
+  {
+   "line": "S31",
+   "phrase": 0,
+   "text": "Keep your word.",
+   "audio": 78.27,
+   "start": 78.27,
+   "end": 79.44,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Keep",
+     "start": 78.27,
+     "end": 78.55
+    },
+    {
+     "w": "your",
+     "start": 78.55,
+     "end": 78.81
+    },
+    {
+     "w": "word.",
+     "start": 78.81,
+     "end": 79.44
+    }
+   ],
+   "heard": "Keep your word."
+  },
+  {
+   "line": "S31",
+   "phrase": 1,
+   "text": "Or pay your friends.",
+   "audio": 79.94,
+   "start": 79.94,
+   "end": 81.22,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "Or",
+     "start": 79.94,
+     "end": 80.2
+    },
+    {
+     "w": "pay",
+     "start": 80.2,
+     "end": 80.5
+    },
+    {
+     "w": "your",
+     "start": 80.5,
+     "end": 80.68
+    },
+    {
+     "w": "friends.",
+     "start": 80.68,
+     "end": 81.22
+    }
+   ],
+   "heard": "or pay your friends."
+  },
+  {
+   "line": "S32",
+   "phrase": 0,
+   "text": "KEPT.",
+   "audio": 81.76,
+   "start": 81.76,
+   "end": 82.25,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "KEPT.",
+     "start": 81.76,
+     "end": 82.25
+    }
+   ],
+   "heard": "Kept"
+  },
+  {
+   "line": "S32",
+   "phrase": 1,
+   "text": "On Seeker.",
+   "audio": 82.59,
+   "start": 82.59,
+   "end": 83.3,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "On",
+     "start": 82.59,
+     "end": 82.75
+    },
+    {
+     "w": "Seeker.",
+     "start": 82.75,
+     "end": 83.3
+    }
+   ],
+   "heard": "On Seeker."
+  },
+  {
+   "line": "S32",
+   "phrase": 2,
+   "text": "October 16.",
+   "audio": 83.78,
+   "start": 83.78,
+   "end": 85.01,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "October",
+     "start": 83.78,
+     "end": 84.14
+    },
+    {
+     "w": "16.",
+     "start": 84.14,
+     "end": 85.01
+    }
+   ],
+   "heard": "October 16th"
+  },
+  {
+   "line": "S33",
+   "phrase": 0,
+   "text": "I'll be watching.",
+   "audio": 85.49,
+   "start": 85.49,
+   "end": 86.38,
+   "lead": null,
+   "runon": false,
+   "words": [
+    {
+     "w": "I'll",
+     "start": 85.49,
+     "end": 85.69
+    },
+    {
+     "w": "be",
+     "start": 85.69,
+     "end": 85.79
+    },
+    {
+     "w": "watching.",
+     "start": 85.79,
+     "end": 86.38
+    }
+   ],
+   "heard": "I'll be watching."
+  }
+ ]
+}

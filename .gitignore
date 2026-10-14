@@ -1,0 +1,10 @@
+node_modules/
+video/node_modules/
+renders/*
+!renders/README.md
+audio/music-refs/*
+!audio/music-refs/README.md
+.DS_Store
+.env
+video/public/
+video/out/

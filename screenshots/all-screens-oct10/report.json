@@ -1,0 +1,470 @@
+{
+ "D2": {
+  "errors": [],
+  "crashed": false
+ },
+ "B1": {
+  "errors": [],
+  "crashed": false
+ },
+ "A1": {
+  "errors": [],
+  "crashed": false
+ },
+ "A0": {
+  "errors": [],
+  "crashed": false
+ },
+ "A2": {
+  "errors": [],
+  "crashed": false
+ },
+ "A2·s": {
+  "errors": [],
+  "crashed": false
+ },
+ "A2·e": {
+  "errors": [],
+  "crashed": false
+ },
+ "A3": {
+  "errors": [],
+  "crashed": false
+ },
+ "A3·no": {
+  "errors": [],
+  "crashed": false
+ },
+ "B2": {
+  "errors": [],
+  "crashed": false
+ },
+ "B3": {
+  "errors": [],
+  "crashed": false
+ },
+ "B4": {
+  "errors": [],
+  "crashed": false
+ },
+ "B5": {
+  "errors": [],
+  "crashed": false
+ },
+ "+": {
+  "errors": [],
+  "crashed": false
+ },
+ "C1": {
+  "errors": [],
+  "crashed": false
+ },
+ "C2": {
+  "errors": [],
+  "crashed": false
+ },
+ "C3": {
+  "errors": [],
+  "crashed": false
+ },
+ "C4": {
+  "errors": [],
+  "crashed": false
+ },
+ "C5": {
+  "errors": [],
+  "crashed": false
+ },
+ "C6": {
+  "errors": [],
+  "crashed": false
+ },
+ "C7": {
+  "errors": [],
+  "crashed": false
+ },
+ "C7·ok": {
+  "errors": [],
+  "crashed": false
+ },
+ "C7·no": {
+  "errors": [],
+  "crashed": false
+ },
+ "C7·fail": {
+  "errors": [],
+  "crashed": false
+ },
+ "C8": {
+  "errors": [],
+  "crashed": false
+ },
+ "D0": {
+  "errors": [],
+  "crashed": false
+ },
+ "D1": {
+  "errors": [],
+  "crashed": false
+ },
+ "D1·m": {
+  "errors": [],
+  "crashed": false
+ },
+ "D1·x": {
+  "errors": [],
+  "crashed": false
+ },
+ "D1·xs": {
+  "errors": [],
+  "crashed": false
+ },
+ "D1·go": {
+  "errors": [],
+  "crashed": false
+ },
+ "D2·low": {
+  "errors": [],
+  "crashed": false
+ },
+ "D3": {
+  "errors": [],
+  "crashed": false
+ },
+ "D4": {
+  "errors": [],
+  "crashed": false
+ },
+ "E1": {
+  "errors": [],
+  "crashed": false
+ },
+ "E2": {
+  "errors": [],
+  "crashed": false
+ },
+ "E2·s": {
+  "errors": [],
+  "crashed": false
+ },
+ "E3·code": {
+  "errors": [],
+  "crashed": false
+ },
+ "E3·late": {
+  "errors": [],
+  "crashed": false
+ },
+ "E3·in": {
+  "errors": [],
+  "crashed": false
+ },
+ "E3·elig": {
+  "errors": [],
+  "crashed": false
+ },
+ "E3·skr": {
+  "errors": [],
+  "crashed": false
+ },
+ "R1": {
+  "errors": [],
+  "crashed": false
+ },
+ "R2": {
+  "errors": [],
+  "crashed": false
+ },
+ "R3": {
+  "errors": [],
+  "crashed": false
+ },
+ "R·act": {
+  "errors": [],
+  "crashed": false
+ },
+ "R4": {
+  "errors": [],
+  "crashed": false
+ },
+ "R4·lost": {
+  "errors": [],
+  "crashed": false
+ },
+ "F1·perm": {
+  "errors": [],
+  "crashed": false
+ },
+ "F1": {
+  "errors": [],
+  "crashed": false
+ },
+ "F2": {
+  "errors": [],
+  "crashed": false
+ },
+ "F2a": {
+  "errors": [],
+  "crashed": false
+ },
+ "F2b": {
+  "errors": [],
+  "crashed": false
+ },
+ "F2c": {
+  "errors": [],
+  "crashed": false
+ },
+ "F3": {
+  "errors": [],
+  "crashed": false
+ },
+ "F4": {
+  "errors": [],
+  "crashed": false
+ },
+ "F4·chk": {
+  "errors": [],
+  "crashed": false
+ },
+ "F4a": {
+  "errors": [],
+  "crashed": false
+ },
+ "F4a·g": {
+  "errors": [],
+  "crashed": false
+ },
+ "F5": {
+  "errors": [],
+  "crashed": false
+ },
+ "G1": {
+  "errors": [],
+  "crashed": false
+ },
+ "G2": {
+  "errors": [],
+  "crashed": false
+ },
+ "G3": {
+  "errors": [],
+  "crashed": false
+ },
+ "G3·no": {
+  "errors": [],
+  "crashed": false
+ },
+ "H1": {
+  "errors": [],
+  "crashed": false
+ },
+ "H1·j": {
+  "errors": [],
+  "crashed": false
+ },
+ "H1·c": {
+  "errors": [],
+  "crashed": false
+ },
+ "H2": {
+  "errors": [],
+  "crashed": false
+ },
+ "H2·no": {
+  "errors": [],
+  "crashed": false
+ },
+ "H3": {
+  "errors": [],
+  "crashed": false
+ },
+ "H4": {
+  "errors": [],
+  "crashed": false
+ },
+ "H5": {
+  "errors": [],
+  "crashed": false
+ },
+ "H6": {
+  "errors": [],
+  "crashed": false
+ },
+ "I1": {
+  "errors": [],
+  "crashed": false
+ },
+ "I2": {
+  "errors": [],
+  "crashed": false
+ },
+ "I3": {
+  "errors": [],
+  "crashed": false
+ },
+ "I4": {
+  "errors": [],
+  "crashed": false
+ },
+ "J1": {
+  "errors": [],
+  "crashed": false
+ },
+ "J1·p": {
+  "errors": [],
+  "crashed": false
+ },
+ "J1·ok": {
+  "errors": [],
+  "crashed": false
+ },
+ "J1·f": {
+  "errors": [],
+  "crashed": false
+ },
+ "K1": {
+  "errors": [],
+  "crashed": false
+ },
+ "K2": {
+  "errors": [],
+  "crashed": false
+ },
+ "K3": {
+  "errors": [],
+  "crashed": false
+ },
+ "K4": {
+  "errors": [],
+  "crashed": false
+ },
+ "K5": {
+  "errors": [],
+  "crashed": false
+ },
+ "K5·p": {
+  "errors": [],
+  "crashed": false
+ },
+ "K5·ok": {
+  "errors": [],
+  "crashed": false
+ },
+ "L1": {
+  "errors": [],
+  "crashed": false
+ },
+ "L2": {
+  "errors": [],
+  "crashed": false
+ },
+ "L3": {
+  "errors": [],
+  "crashed": false
+ },
+ "L4": {
+  "errors": [],
+  "crashed": false
+ },
+ "L4·m": {
+  "errors": [],
+  "crashed": false
+ },
+ "L4·b": {
+  "errors": [],
+  "crashed": false
+ },
+ "L6": {
+  "errors": [],
+  "crashed": false
+ },
+ "L5": {
+  "errors": [],
+  "crashed": false
+ },
+ "M1": {
+  "errors": [],
+  "crashed": false
+ },
+ "M2": {
+  "errors": [],
+  "crashed": false
+ },
+ "M3": {
+  "errors": [],
+  "crashed": false
+ },
+ "M4": {
+  "errors": [],
+  "crashed": false
+ },
+ "A4": {
+  "errors": [],
+  "crashed": false
+ },
+ "N1": {
+  "errors": [],
+  "crashed": false
+ },
+ "W1": {
+  "errors": [],
+  "crashed": false
+ },
+ "W2": {
+  "errors": [],
+  "crashed": false
+ },
+ "W3": {
+  "errors": [],
+  "crashed": false
+ },
+ "W3·s": {
+  "errors": [],
+  "crashed": false
+ },
+ "W3·ok": {
+  "errors": [],
+  "crashed": false
+ },
+ "W4": {
+  "errors": [],
+  "crashed": false
+ },
+ "D5": {
+  "errors": [],
+  "crashed": false
+ },
+ "H7": {
+  "errors": [],
+  "crashed": false
+ },
+ "I2·me": {
+  "errors": [],
+  "crashed": false
+ },
+ "I2·p": {
+  "errors": [],
+  "crashed": false
+ },
+ "I5": {
+  "errors": [],
+  "crashed": false
+ },
+ "I7": {
+  "errors": [],
+  "crashed": false
+ },
+ "I8": {
+  "errors": [],
+  "crashed": false
+ },
+ "I9": {
+  "errors": [],
+  "crashed": false
+ },
+ "A1·m": {
+  "errors": [],
+  "crashed": false
+ }
+}

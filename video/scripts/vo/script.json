@@ -1,0 +1,229 @@
+{
+ "$doc": "The Keeper's VO, phrase by phrase. Each phrase is synthesised separately and joined with `gap` seconds of silence before it. `speed` is Kokoro's speed (1 = default). `key` marks the caption punch word(s). Lines follow KEPT_TRAILER_BRIEF §5 with the trims locked in docs/SHOTLIST.md §0 (L04, L05, L07 trimmed; L09 and L12 generated but not used in the 28 s / 15 s cuts). `fit` = the line's speech window in docs/SHOTLIST.md (VO slot sheet); a placeholder take longer than that is time-stretched to fit.",
+ "voice": "am_onyx",
+ "lang": "en-us",
+ "defaultSpeed": 1.0,
+ "lines": {
+  "L01": {
+   "phrases": [
+    {
+     "text": "You tapped, done…",
+     "caption": "You tapped “done”…",
+     "speed": 0.95
+    },
+    {
+     "text": "from bed.",
+     "gap": 0.5,
+     "speed": 0.9,
+     "key": [
+      "from",
+      "bed."
+     ]
+    }
+   ],
+   "fit": 2.5
+  },
+  "L02": {
+   "phrases": [
+    {
+     "text": "Twelve-day streak.",
+     "speed": 1.12
+    },
+    {
+     "text": "Gone.",
+     "gap": 0.1,
+     "speed": 1.0
+    },
+    {
+     "text": "Cost you?",
+     "gap": 0.2,
+     "speed": 1.05
+    },
+    {
+     "text": "Nothing.",
+     "gap": 0.15,
+     "speed": 1.0,
+     "key": [
+      "Nothing."
+     ]
+    }
+   ],
+   "fit": 3.2
+  },
+  "L03a": {
+   "phrases": [
+    {
+     "text": "So I made it cost something.",
+     "key": [
+      "cost"
+     ]
+    }
+   ],
+   "fit": 1.8
+  },
+  "L03b": {
+   "phrases": [
+    {
+     "text": "Welcome to Kept.",
+     "speed": 0.95,
+     "key": [
+      "KEPT."
+     ],
+     "caption": "Welcome to KEPT."
+    }
+   ],
+   "fit": 1.3
+  },
+  "L04": {
+   "phrases": [
+    {
+     "text": "Pick a habit.",
+     "speed": 1.08
+    },
+    {
+     "text": "Stake it.",
+     "gap": 0.12,
+     "speed": 1.08,
+     "key": [
+      "Stake"
+     ]
+    },
+    {
+     "text": "Bring witnesses.",
+     "gap": 0.12,
+     "speed": 1.08
+    }
+   ],
+   "fit": 2.9
+  },
+  "L05": {
+   "phrases": [
+    {
+     "text": "Two photos.",
+     "speed": 1.05
+    },
+    {
+     "text": "I check everything.",
+     "gap": 0.15,
+     "speed": 1.05,
+     "key": [
+      "everything."
+     ]
+    }
+   ],
+   "fit": 2.1
+  },
+  "L06": {
+   "phrases": [
+    {
+     "text": "Nice try.",
+     "speed": 0.92,
+     "key": [
+      "Nice",
+      "try."
+     ]
+    }
+   ],
+   "fit": 1.1
+  },
+  "L07": {
+   "phrases": [
+    {
+     "text": "Miss a day?",
+     "speed": 1.08
+    },
+    {
+     "text": "Friends take your money.",
+     "gap": 0.15,
+     "speed": 1.08,
+     "key": [
+      "take",
+      "your",
+      "money."
+     ]
+    }
+   ],
+   "fit": 2.2
+  },
+  "L08": {
+   "phrases": [
+    {
+     "text": "I love this part.",
+     "speed": 1.0,
+     "gain": -4,
+     "pitch": 0.6,
+     "key": [
+      "love"
+     ]
+    }
+   ],
+   "fit": 1.2
+  },
+  "L09": {
+   "phrases": [
+    {
+     "text": "Locked on Solana."
+    },
+    {
+     "text": "Checked by A.I.",
+     "caption": "Checked by AI.",
+     "gap": 0.12
+    }
+   ]
+  },
+  "L10": {
+   "phrases": [
+    {
+     "text": "Keep your word.",
+     "speed": 1.05
+    },
+    {
+     "text": "Or pay your friends.",
+     "gap": 0.22,
+     "speed": 1.05,
+     "key": [
+      "pay",
+      "your",
+      "friends."
+     ]
+    }
+   ],
+   "fit": 2.1
+  },
+  "L11": {
+   "phrases": [
+    {
+     "text": "Kept.",
+     "speed": 1.0,
+     "caption": "KEPT."
+    },
+    {
+     "text": "On Seeker.",
+     "gap": 0.15,
+     "speed": 1.05
+    },
+    {
+     "text": "October sixteenth.",
+     "caption": "October 16th.",
+     "gap": 0.12,
+     "speed": 1.05,
+     "key": [
+      "October",
+      "16th."
+     ]
+    }
+   ],
+   "fit": 2.4
+  },
+  "L12": {
+   "phrases": [
+    {
+     "text": "I'll be watching.",
+     "caption": "…I’ll be watching.",
+     "speed": 0.88,
+     "gain": -2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,324 @@
+{
+ "$doc": "Launch film v3 VO (docs/LAUNCH_FILM_V3_PLAN.md \u00a75). Placeholder TTS; replace with ElevenLabs takes named K03\u2026K20 (K01/K02 reuse teaser L01/L03a) and run align_vo.py.",
+ "voice": "am_onyx",
+ "lang": "en-us",
+ "defaultSpeed": 1.0,
+ "lines": {
+  "K03": {
+   "phrases": [
+    {
+     "text": "Pick a habit.",
+     "speed": 0.95,
+     "key": [
+      "habit."
+     ]
+    },
+    {
+     "text": "Put money on it.",
+     "speed": 0.95,
+     "key": [
+      "money"
+     ],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K04": {
+   "phrases": [
+    {
+     "text": "Sign here.",
+     "speed": 0.92,
+     "key": []
+    },
+    {
+     "text": "I keep the receipts.",
+     "speed": 0.92,
+     "key": [
+      "receipts."
+     ],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K05": {
+   "phrases": [
+    {
+     "text": "Now bring your friends.",
+     "speed": 0.95,
+     "key": [
+      "friends."
+     ]
+    }
+   ]
+  },
+  "K06": {
+   "phrases": [
+    {
+     "text": "Same stake.",
+     "speed": 0.95,
+     "key": []
+    },
+    {
+     "text": "Same rules.",
+     "speed": 0.95,
+     "key": [],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K07": {
+   "phrases": [
+    {
+     "text": "Even Arjun.",
+     "speed": 0.88,
+     "key": [
+      "Arjun."
+     ]
+    }
+   ]
+  },
+  "K08": {
+   "phrases": [
+    {
+     "text": "Every day, you prove it.",
+     "speed": 0.95,
+     "key": [
+      "prove"
+     ]
+    }
+   ]
+  },
+  "K09": {
+   "phrases": [
+    {
+     "text": "Nice try.",
+     "speed": 0.85,
+     "key": [
+      "Nice",
+      "try."
+     ]
+    }
+   ]
+  },
+  "K10": {
+   "phrases": [
+    {
+     "text": "Arjun's still on the couch.",
+     "speed": 0.95,
+     "key": [
+      "couch."
+     ]
+    },
+    {
+     "text": "Three to one he misses.",
+     "speed": 0.92,
+     "key": [
+      "misses."
+     ],
+     "gap": 0.4
+    }
+   ]
+  },
+  "K11": {
+   "phrases": [
+    {
+     "text": "Arjun pays.",
+     "speed": 0.9,
+     "key": [
+      "pays."
+     ]
+    },
+    {
+     "text": "Everyone who showed up gets paid.",
+     "speed": 0.95,
+     "key": [
+      "paid."
+     ],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K12": {
+   "phrases": [
+    {
+     "text": "Honestly?",
+     "speed": 0.9,
+     "key": []
+    },
+    {
+     "text": "I love this part.",
+     "speed": 0.88,
+     "key": [
+      "love"
+     ],
+     "gap": 0.4
+    }
+   ]
+  },
+  "K13": {
+   "phrases": [
+    {
+     "text": "Blurry photo?",
+     "speed": 0.95,
+     "key": []
+    },
+    {
+     "text": "Your friends decide.",
+     "speed": 0.95,
+     "key": [
+      "friends"
+     ],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K14": {
+   "phrases": [
+    {
+     "text": "Seven for seven.",
+     "speed": 0.92,
+     "key": []
+    },
+    {
+     "text": "Collect.",
+     "speed": 0.88,
+     "key": [
+      "Collect."
+     ],
+     "gap": 0.35
+    }
+   ]
+  },
+  "K15": {
+   "phrases": [
+    {
+     "text": "Arjun? Down a hundred forty-three.",
+     "speed": 0.95,
+     "key": [
+      "Down"
+     ]
+    },
+    {
+     "text": "He'll be back.",
+     "speed": 0.88,
+     "key": [],
+     "gap": 0.5
+    }
+   ]
+  },
+  "K16": {
+   "phrases": [
+    {
+     "text": "Want a bigger table?",
+     "speed": 0.95,
+     "key": [
+      "bigger"
+     ]
+    },
+    {
+     "text": "Bounties.",
+     "speed": 0.92,
+     "key": [
+      "Bounties."
+     ],
+     "gap": 0.28
+    },
+    {
+     "text": "Free to join.",
+     "speed": 0.95,
+     "key": [
+      "Free"
+     ],
+     "gap": 0.28
+    },
+    {
+     "text": "Miss once, you're out.",
+     "speed": 0.92,
+     "key": [
+      "out."
+     ],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K17": {
+   "phrases": [
+    {
+     "text": "Last ones standing split the pool.",
+     "speed": 0.95,
+     "key": [
+      "split"
+     ]
+    }
+   ]
+  },
+  "K18": {
+   "phrases": [
+    {
+     "text": "Your kept rate is public.",
+     "speed": 0.95,
+     "key": [
+      "public."
+     ]
+    },
+    {
+     "text": "Make it worth reading.",
+     "speed": 0.92,
+     "key": [],
+     "gap": 0.28
+    }
+   ]
+  },
+  "K19": {
+   "phrases": [
+    {
+     "text": "So.",
+     "speed": 0.85,
+     "key": []
+    },
+    {
+     "text": "Who's your Arjun?",
+     "speed": 0.88,
+     "key": [
+      "Arjun?"
+     ],
+     "gap": 0.5
+    }
+   ]
+  },
+  "K20": {
+   "phrases": [
+    {
+     "text": "Kept.",
+     "speed": 0.9,
+     "key": [
+      "Kept."
+     ]
+    },
+    {
+     "text": "Keep your word.",
+     "speed": 0.92,
+     "key": [],
+     "gap": 0.4
+    },
+    {
+     "text": "Or pay your friends.",
+     "speed": 0.9,
+     "key": [
+      "pay"
+     ],
+     "gap": 0.15
+    },
+    {
+     "text": "On Seeker. October sixteenth.",
+     "speed": 0.95,
+     "key": [
+      "October",
+      "sixteenth."
+     ],
+     "gap": 0.45
+    }
+   ]
+  }
+ }
+}

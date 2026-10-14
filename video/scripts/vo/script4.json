@@ -1,0 +1,417 @@
+{
+ "$doc": "Launch film v4 (final) Keeper transcript, docs/LAUNCH_FILM_V4.md. Not voiced in the film: the render is silent where he talks. Kokoro is used only to get natural word timings (lip-sync + subtitles) and a scratch guide track; replace with ElevenLabs takes named F01\u2026F26 and run align_vo.py to re-time.",
+ "voice": "am_onyx",
+ "lang": "en-us",
+ "defaultSpeed": 1.0,
+ "lines": {
+  "F01": {
+   "phrases": [
+    {
+     "text": "Every habit app lets you quit.",
+     "speed": 0.95,
+     "key": [
+      "quit."
+     ]
+    }
+   ]
+  },
+  "F02": {
+   "phrases": [
+    {
+     "text": "This one",
+     "speed": 0.92
+    },
+    {
+     "text": "bills you.",
+     "gap": 0.15,
+     "speed": 0.9,
+     "key": [
+      "bills"
+     ]
+    }
+   ]
+  },
+  "F03": {
+   "phrases": [
+    {
+     "text": "Welcome to Kept.",
+     "speed": 0.92,
+     "key": [
+      "Kept."
+     ],
+     "caption": "Welcome to KEPT."
+    }
+   ]
+  },
+  "F04": {
+   "phrases": [
+    {
+     "text": "No passwords.",
+     "speed": 0.95
+    },
+    {
+     "text": "Your Seeker is your login.",
+     "gap": 0.25,
+     "speed": 0.95,
+     "key": [
+      "login."
+     ]
+    }
+   ]
+  },
+  "F05": {
+   "phrases": [
+    {
+     "text": "Pick a look.",
+     "speed": 0.95
+    },
+    {
+     "text": "Bold.",
+     "gap": 1.1,
+     "speed": 0.85,
+     "key": [
+      "Bold."
+     ]
+    }
+   ]
+  },
+  "F06": {
+   "phrases": [
+    {
+     "text": "Pick a habit.",
+     "speed": 0.95,
+     "key": [
+      "habit."
+     ]
+    }
+   ]
+  },
+  "F07": {
+   "phrases": [
+    {
+     "text": "Put money on it.",
+     "speed": 0.95,
+     "key": [
+      "money"
+     ]
+    }
+   ]
+  },
+  "F08": {
+   "phrases": [
+    {
+     "text": "Then sign it.",
+     "speed": 1.0
+    },
+    {
+     "text": "Like a contract.",
+     "gap": 0.2,
+     "speed": 0.95,
+     "key": [
+      "contract."
+     ]
+    }
+   ]
+  },
+  "F09": {
+   "phrases": [
+    {
+     "text": "Now.",
+     "speed": 0.9
+    },
+    {
+     "text": "Bring your friends.",
+     "gap": 0.3,
+     "speed": 0.92,
+     "key": [
+      "friends."
+     ]
+    }
+   ]
+  },
+  "F10": {
+   "phrases": [
+    {
+     "text": "Same stake.",
+     "speed": 0.95
+    },
+    {
+     "text": "Same rules.",
+     "gap": 0.25,
+     "speed": 0.95
+    }
+   ]
+  },
+  "F11": {
+   "phrases": [
+    {
+     "text": "Even Arjun.",
+     "speed": 0.88,
+     "key": [
+      "Arjun."
+     ]
+    }
+   ]
+  },
+  "F12": {
+   "phrases": [
+    {
+     "text": "Four thousand on the table.",
+     "speed": 0.95,
+     "key": [
+      "table."
+     ],
+     "caption": "4,000 on the table."
+    }
+   ]
+  },
+  "F13": {
+   "phrases": [
+    {
+     "text": "Two photos a day.",
+     "speed": 1.02,
+     "key": [
+      "photos"
+     ]
+    },
+    {
+     "text": "Random gesture.",
+     "gap": 0.15,
+     "speed": 1.02
+    },
+    {
+     "text": "I check every one.",
+     "gap": 0.2,
+     "speed": 0.98,
+     "key": [
+      "every"
+     ]
+    }
+   ]
+  },
+  "F14": {
+   "phrases": [
+    {
+     "text": "Nice try.",
+     "speed": 0.85,
+     "key": [
+      "try."
+     ]
+    }
+   ]
+  },
+  "F15": {
+   "phrases": [
+    {
+     "text": "Arjun's still on the couch.",
+     "speed": 0.95,
+     "key": [
+      "couch."
+     ]
+    }
+   ]
+  },
+  "F16": {
+   "phrases": [
+    {
+     "text": "Three to one he misses.",
+     "speed": 0.92,
+     "key": [
+      "misses."
+     ],
+     "caption": "3 to 1 he misses."
+    }
+   ]
+  },
+  "F17": {
+   "phrases": [
+    {
+     "text": "Miss a day,",
+     "speed": 0.9,
+     "key": [
+      "Miss"
+     ],
+     "caption": "Miss a day\u2026"
+    },
+    {
+     "text": "and your friends split your stake.",
+     "gap": 0.25,
+     "speed": 0.98,
+     "key": [
+      "split"
+     ],
+     "caption": "\u2026and your friends split your stake."
+    }
+   ]
+  },
+  "F18": {
+   "phrases": [
+    {
+     "text": "Honestly?",
+     "speed": 0.92
+    },
+    {
+     "text": "I love this part.",
+     "gap": 0.35,
+     "speed": 0.88,
+     "key": [
+      "love"
+     ]
+    }
+   ]
+  },
+  "F19": {
+   "phrases": [
+    {
+     "text": "Blurry photo?",
+     "speed": 0.95
+    },
+    {
+     "text": "Your friends decide.",
+     "gap": 0.25,
+     "speed": 0.95,
+     "key": [
+      "decide."
+     ]
+    }
+   ]
+  },
+  "F20": {
+   "phrases": [
+    {
+     "text": "Seven for seven.",
+     "speed": 0.92,
+     "caption": "7 for 7."
+    },
+    {
+     "text": "Collect.",
+     "gap": 0.3,
+     "speed": 0.88,
+     "key": [
+      "Collect."
+     ]
+    }
+   ]
+  },
+  "F21": {
+   "phrases": [
+    {
+     "text": "Arjun?",
+     "speed": 0.9
+    },
+    {
+     "text": "He'll be back.",
+     "gap": 0.4,
+     "speed": 0.88,
+     "key": [
+      "back."
+     ]
+    }
+   ]
+  },
+  "F22": {
+   "phrases": [
+    {
+     "text": "Want a bigger table?",
+     "speed": 0.95
+    },
+    {
+     "text": "Bounties.",
+     "gap": 0.25,
+     "speed": 0.92,
+     "key": [
+      "Bounties."
+     ]
+    },
+    {
+     "text": "Free to join.",
+     "gap": 0.2,
+     "speed": 0.98
+    },
+    {
+     "text": "Miss once, you're out.",
+     "gap": 0.2,
+     "speed": 0.95,
+     "key": [
+      "out."
+     ]
+    }
+   ]
+  },
+  "F23": {
+   "phrases": [
+    {
+     "text": "Last ones standing split the pool.",
+     "speed": 0.95,
+     "key": [
+      "split"
+     ]
+    }
+   ]
+  },
+  "F24": {
+   "phrases": [
+    {
+     "text": "Your kept rate is public.",
+     "speed": 0.95,
+     "key": [
+      "public."
+     ]
+    },
+    {
+     "text": "Make it worth reading.",
+     "gap": 0.25,
+     "speed": 0.92,
+     "key": [
+      "reading."
+     ]
+    }
+   ]
+  },
+  "F25": {
+   "phrases": [
+    {
+     "text": "Keep your word.",
+     "speed": 0.9,
+     "key": [
+      "word."
+     ]
+    },
+    {
+     "text": "Or pay your friends.",
+     "gap": 0.3,
+     "speed": 0.9,
+     "key": [
+      "pay"
+     ]
+    }
+   ]
+  },
+  "F26": {
+   "phrases": [
+    {
+     "text": "Kept.",
+     "speed": 0.9,
+     "key": [
+      "Kept."
+     ],
+     "caption": "KEPT."
+    },
+    {
+     "text": "On Seeker.",
+     "gap": 0.2,
+     "speed": 0.95
+    },
+    {
+     "text": "October sixteenth.",
+     "gap": 0.15,
+     "speed": 0.95,
+     "key": [
+      "October"
+     ],
+     "caption": "October 16."
+    }
+   ]
+  }
+ }
+}
